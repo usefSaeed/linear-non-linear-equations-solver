@@ -1,0 +1,78 @@
+
+   Iteration:1
+New Root: 1.0
+New F(root): 0
+New error: 1.0 > 0.0001
+
+   Iteration:2
+New Root: 1.5
+New F(root): 1.25000000000000
+New error: 0.5 > 0.0001
+
+   Iteration:3
+New Root: 1.25
+New F(root): 0.562500000000000
+New error: 0.25 > 0.0001
+
+   Iteration:4
+New Root: 1.125
+New F(root): 0.265625000000000
+New error: 0.125 > 0.0001
+
+   Iteration:5
+New Root: 1.0625
+New F(root): 0.128906250000000
+New error: 0.0625 > 0.0001
+
+   Iteration:6
+New Root: 1.03125
+New F(root): 0.0634765625000000
+New error: 0.03125 > 0.0001
+
+   Iteration:7
+New Root: 1.015625
+New F(root): 0.0314941406250000
+New error: 0.015625 > 0.0001
+
+   Iteration:8
+New Root: 1.0078125
+New F(root): 0.0156860351562500
+New error: 0.0078125 > 0.0001
+
+   Iteration:9
+New Root: 1.00390625
+New F(root): 0.00782775878906250
+New error: 0.00390625 > 0.0001
+
+   Iteration:10
+New Root: 1.001953125
+New F(root): 0.00391006469726561
+New error: 0.001953125 > 0.0001
+
+   Iteration:11
+New Root: 1.0009765625
+New F(root): 0.00195407867431641
+New error: 0.0009765625 > 0.0001
+
+   Iteration:12
+New Root: 1.00048828125
+New F(root): 0.000976800918579102
+New error: 0.00048828125 > 0.0001
+
+   Iteration:13
+New Root: 1.000244140625
+New F(root): 0.000488340854644775
+New error: 0.000244140625 > 0.0001
+
+   Iteration:14
+New Root: 1.0001220703125
+New F(root): 0.000244155526161194
+New error: 0.0001220703125 > 0.0001
+
+   Iteration:15
+New Root: 1.00006103515625
+New F(root): 0.000122074037790297
+New error: 6.103515625e-05 > 0.0001
+
+
+Root is: 1.00006103515625
